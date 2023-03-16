@@ -16,6 +16,12 @@
 
 | ECMA Version | Feature                                                                                                                                                             | Android | Ios |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --- |
+| ES2019       | [Array.prototype.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)                                               | 🟩      | 🟩  |
+| ES2019       | [Array.prototype.flatMap()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)                                         | 🟩      | 🟩  |
+| ES2019       | [Object.fromEntries()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries)                                         | 🟩      | 🟩  |
+| ES2019       | [String.prototype.trimEnd()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimEnd)                                       | 🟩      | 🟩  |
+| ES2019       | [String.prototype.trimStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart)                                   | 🟩      | 🟩  |
+| ES2019       | [Symbol.prototype.description](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/description)                                 | 🟩      | 🟩  |
 | ES2018       | [AsyncGenerator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/AsyncGenerator)                                                   | 🟩      | 🟩  |
 | ES2018       | [Intl.NumberFormat.prototype.formatToParts()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/formatToParts)     | 🟩      | 🟥  |
 | ES2018       | [Promise.prototype.finally()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally)                                     | 🟩      | 🟩  |

@@ -16,6 +16,13 @@
 
 | ECMA Version | Feature                                                                                                                                                             | Android | Ios    |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
+| ES2020       | [Date.prototype.toLocaleDateString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)                     | 🟩      | 🟩     |
+| ES2020       | [Date.prototype.toLocaleString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString)                             | 🟩      | 🟩     |
+| ES2020       | [Date.prototype.toLocaleTimeString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString)                     | 🟩      | 🟩     |
+| ES2020       | [Number.prototype.toLocaleString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toLocaleString)                         | 🟩      | 🟩     |
+| ES2020       | [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled)                                         | 🟩      | 🟩     |
+| ES2020       | [String.prototype.matchAll()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/matchAll)                                     | 🟩      | 🟩     |
+| ES2020       | [Symbol.matchAll](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/matchAll)                                                 | 🟩      | 🟩     |
 | ES2019       | [Array.prototype.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)                                               | 🟩      | 🟩     |
 | ES2019       | [Array.prototype.flatMap()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)                                         | 🟩      | 🟩     |
 | ES2019       | [Object.fromEntries()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries)                                         | 🟩      | 🟩     |

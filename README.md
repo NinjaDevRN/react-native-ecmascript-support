@@ -16,6 +16,8 @@
 
 | ECMA Version | Feature                                                                                                                                                             | Android | Ios    |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
+| ES2021       | [Promise.any()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/any)                                                       | 🟩      | 🟩     |
+| ES2021       | [String.prototype.replaceAll()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll)                                 | 🟩      | 🟩     |
 | ES2020       | [Date.prototype.toLocaleDateString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)                     | 🟩      | 🟩     |
 | ES2020       | [Date.prototype.toLocaleString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString)                             | 🟩      | 🟩     |
 | ES2020       | [Date.prototype.toLocaleTimeString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString)                     | 🟩      | 🟩     |

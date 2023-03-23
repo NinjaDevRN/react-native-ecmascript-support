@@ -16,6 +16,10 @@
 
 | ECMA Version | Feature                                                                                                                                                             | Android | Ios    |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ |
+| ES2022       | [Array.prototype.at()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at)                                                   | 🟩      | 🟩     |
+| ES2022       | [Error: cause](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/cause)                                                        | 🟩      | 🟩     |
+| ES2022       | [Object.hasOwn()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwn)                                                   | 🟩      | 🟩     |
+| ES2022       | [String.prototype.at()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/at)                                                 | 🟩      | 🟩     |
 | ES2021       | [Promise.any()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/any)                                                       | 🟩      | 🟩     |
 | ES2021       | [String.prototype.replaceAll()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll)                                 | 🟩      | 🟩     |
 | ES2020       | [Date.prototype.toLocaleDateString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)                     | 🟩      | 🟩     |
